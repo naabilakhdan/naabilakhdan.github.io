@@ -14,8 +14,8 @@ li {
 	display: inline-block;
 }
 .main {
-	width: 1000px;
-	height: 800px;
+	width: 700px;
+	height: 900px;
 	background-color: #fafafa;
 	margin: 0 auto;
 	padding-top: 25px;
@@ -23,12 +23,12 @@ li {
 	border: 1px solid #eeeeee'
 }
 .img {
-	background-image: url(foto.png);
+	background-image: url(qqq.png);
 	background-color: #eaeaea;
 	background-size: cover;
 	border-radius: 100px;
-	width: 150px;
-	height: 150px;
+	width: 190px;
+	height: 190px;
 	margin: 0 auto;
 	border: 6px solid #eaeaea;
 }
